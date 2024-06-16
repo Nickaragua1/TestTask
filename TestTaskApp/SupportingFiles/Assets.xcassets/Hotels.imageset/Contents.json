@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Type=Отели, State=Default.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
